@@ -40,3 +40,33 @@ To run the notebook:
 1. Clone the repository:
    ```bash
    git clone https://github.com/sheriff18/classification
+
+   Navigate to the directory:
+
+   ```bash
+   
+   cd LogisticRegression
+
+   Open the Jupyter Notebook and run it:
+
+   ```bash
+
+   jupyter notebook DiabeticPatientsFoodType.ipynb
+
+## Requirements
+Python 3.x
+Jupyter Notebook
+Pandas
+Scikit-learn
+Matplotlib
+Seaborn
+
+
+You can install the dependencies using the following command:
+
+  ```bash
+
+   pip install -r requirements.txt
+
+
+
