@@ -30,8 +30,10 @@ In this notebook, logistic regression is used to model the relationship between 
 
 ## Results
 
-- The logistic regression model achieved significant accuracy in classifying food types for diabetic patients.
-- Insights from the model indicate strong associations between certain food types and diabetic conditions, which can be further used for dietary recommendations.
+- The logistic regression model achieved significant accuracy of 0.8 in classifying food types for diabetic patients.
+-  Calories, total carbohydrate and total fats should be eaten less often by diabetic patients while Vitamin A, Calcium and    Fibre should be eaten more often
+  
+
 
 ## Usage
 
