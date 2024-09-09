@@ -8,7 +8,7 @@ In this notebook, logistic regression is used to model the relationship between 
 
 ## Dataset
 
-- The dataset used in this analysis contains features related to food consumption and diabetic conditions. You can replace this section with the specific details about the dataset you're using, or link to it if it's publicly available.
+- The dataset used in this analysis contains features related to food consumption and diabetic conditions. 
 
 ## Steps in the Analysis
 
@@ -22,7 +22,7 @@ In this notebook, logistic regression is used to model the relationship between 
 
 3. **Logistic Regression Model**
    - Applying logistic regression to classify food types and identify their association with diabetes.
-   - Tuning the model and checking the performance metrics.
+   - Tuning the model and checking the performance metrics.(Lasso, ridge and elastic net regressions).
 
 4. **Evaluation**
    - Assessing model performance using accuracy, precision, recall, and other relevant metrics.
